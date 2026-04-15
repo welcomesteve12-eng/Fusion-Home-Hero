@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Netflix/Netflix%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netflix.svg"
+  },
+  {
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Amazon%20Prime%20Video/Amazon%20Prime%20Video%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/amazon-prime-video.svg"
+  },
+  {
+    "title": "Disney",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Disney/Disney%2B%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/disney-plus.svg"
+  },
+  {
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Apple%20TV%2B/Apple%20TV%2B%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apple-tv.svg"
+  },
+  {
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/HBO/HBO%20Max%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hbo-max.svg"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Paramount%2B/Paramount%2B%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/paramount-plus.svg"
+  },
+  {
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Hulu/Hulu%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hulu.svg"
+  },
+  {
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Crunchyroll/Crunchyroll%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/crunchyroll.svg"
+  },
+  {
+    "title": "Shudder",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Shudder/Shudder%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/shudder.svg"
+  },
+  {
+    "title": "Nickelodeon",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Nickelodeon/Nickelodeon%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nickelodeon.svg"
+  },
+  {
+    "title": "Cartoon Network",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Cartoon%20Network/Cartoon%20Network%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cartoon-network.svg"
+  },
+  {
+    "title": "Adult Swim",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Adult%20Swim/Adult%20Swim%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/adult-swim.svg"
+  },
+  {
+    "title": "Boomerang",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/Boomerang/Boomerang%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/boomerang.svg"
+  },
+  {
+    "title": "PBS Kids",
+    "videoURL": "https://raw.githubusercontent.com/esc0rtd3w/blank-intro-videos/master/PBS%20Kids/PBS%20Kids%20Intro.mp4",
+    "logoURL": "https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pbs.svg"
+  }
+]
